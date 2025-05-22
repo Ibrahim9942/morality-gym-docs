@@ -1,5 +1,6 @@
 site_name: MoralityGym Documentation
 nav:
   - Home: index.md
+  - Environments: environments.md
 theme:
   name: material
