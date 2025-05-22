@@ -62,15 +62,6 @@ for _ in range(100):
         break
 ```
 
----
-
-## Documentation
-
-| Resource | Description |
-|----------|-------------|
-| [Environments](morality_gym/environments/README.md) | Learn about the available environments |
-| [Experiments](experiments/README.md) | Understand how to run experiments with different agents |
-| [Examples](examples/) | Explore example scripts demonstrating various features |
 
 ## Citation
 
