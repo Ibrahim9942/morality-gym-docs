@@ -8,7 +8,6 @@ This section describes the core simulation engine and specific environment imple
 environments/
 ├── core/             # Core simulation engine components (shared across all environments)
 ├── trolley/          # Implementation for Trolley Problem dilemmas
-└── README.md         # This file
 ````
 
 ## Core (`core/`)
