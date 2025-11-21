@@ -62,24 +62,6 @@ for _ in range(100):
         break
 ```
 
-
-## Citation
-
-If you use this framework in your research, please cite:
-
-```bibtex
-@misc{rosen2024moralitygym,
-  author = {Rosen, Simon and Singh, Siddarth and Robertson, Helen Sarah and Gelo, Ebenezer and 
-            Suder, Ibrahim and Nangue Tasse, Geraud and Williams, Victoria and 
-            James, Steven and Rosman, Benjamin},
-  title = {Morality Gym Tabular: A Framework for Moral Dilemmas in Reinforcement Learning},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/SimonRosen173/morality-gym-tabular}}
-}
-```
-
 ## Contributing
 
 Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
